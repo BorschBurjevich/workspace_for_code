@@ -1,2 +1,1 @@
 print(New idea of this shit)
-How do you do
