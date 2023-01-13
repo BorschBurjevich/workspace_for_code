@@ -1,1 +1,2 @@
 print(Everyone should be interested in war!)
+print(Goodby Johny)
